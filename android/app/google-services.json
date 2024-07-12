@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264949049202",
+    "project_id": "nakliyelog",
+    "storage_bucket": "nakliyelog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264949049202:android:87c2d2b7353e72ce135feb",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDm2AWX_glcQ_1hByxU0js1AWdQo4Wzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
